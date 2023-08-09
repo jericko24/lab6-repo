@@ -45,6 +45,13 @@ function recalculate(){
 
 
 
+
+
+
+
+
+
+
 /****************** model button logic ******************/
 
 /* 
